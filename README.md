@@ -7,3 +7,11 @@ As covid is going on all over the world so this model will be very helpful in co
 
 ![Screenshot 2021-07-22 201059](https://user-images.githubusercontent.com/52272226/126658309-c3f8e8fc-b6b9-42aa-ba39-e2ad78e6fb77.png)
 https://user-images.githubusercontent.com/52272226/126658768-3709fd12-22c0-43c6-85cd-9cf559449926.mp4
+
+Requirements:
+1.Numpy
+2.Time
+3.OpenCV
+4.OpenCV_Contrib
+5.Math
+6.Download yolov3.weights for COCO dataset from this link and add it to your repo, click here

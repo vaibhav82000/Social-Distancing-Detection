@@ -4,6 +4,7 @@ As covid is going on all over the world so this model will be very helpful in co
 
 ![image](https://user-images.githubusercontent.com/52272226/126654810-bb61cf1e-b758-455c-9cec-749a106ee2f3.png)
 ![Screenshot 2021-07-22 194030](https://user-images.githubusercontent.com/52272226/126653856-29666648-d6e8-40dc-91ab-ac2c9194e14c.png)
+https://raw.githubusercontent.com/rajpratyush/Social-Distancing-Detector/main/images/data/frame200.jpg
 
 ![Screenshot 2021-07-22 201059](https://user-images.githubusercontent.com/52272226/126658309-c3f8e8fc-b6b9-42aa-ba39-e2ad78e6fb77.png)
 https://user-images.githubusercontent.com/52272226/137636133-e22cd014-28ee-4d56-8902-1cbf0de43053.mp4

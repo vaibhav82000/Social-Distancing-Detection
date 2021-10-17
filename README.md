@@ -7,5 +7,6 @@ As covid is going on all over the world so this model will be very helpful in co
 
 ![Screenshot 2021-07-22 201059](https://user-images.githubusercontent.com/52272226/126658309-c3f8e8fc-b6b9-42aa-ba39-e2ad78e6fb77.png)
 https://user-images.githubusercontent.com/52272226/126658768-3709fd12-22c0-43c6-85cd-9cf559449926.mp4
+"C:\Users\vaibh\Downloads\social distancing detection.gif"
 
 ![Screenshot 2021-07-22 202115](https://user-images.githubusercontent.com/52272226/126660172-8fbecd1d-aca4-4b55-a150-d783fb43351d.png)

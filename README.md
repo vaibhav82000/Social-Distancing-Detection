@@ -3,7 +3,6 @@ Social Distancing Detection is a tool developed to alert people to maintain a sa
 As covid is going on all over the world so this model will be very helpful in coronavirus by alerting people.
 
 ![image](https://user-images.githubusercontent.com/52272226/126654810-bb61cf1e-b758-455c-9cec-749a106ee2f3.png)
-![Screenshot 2021-07-22 194030](https://user-images.githubusercontent.com/52272226/126653856-29666648-d6e8-40dc-91ab-ac2c9194e14c.png)
 ![image](https://user-images.githubusercontent.com/52272226/137637403-88f156b8-e6b4-4268-8475-08ce54af511f.png)
 
 
